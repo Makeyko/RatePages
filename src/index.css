@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Question {
+  padding: 50px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.QuestionText {
+  padding: 50px;
+}
+
